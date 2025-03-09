@@ -1,1 +1,1 @@
-# Python is operators system
+# There are many operator system in Python 
